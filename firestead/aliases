@@ -16,3 +16,5 @@ function serve() {
 		echo "  serve domain path"
 	fi
 }
+
+cd /vagrant
