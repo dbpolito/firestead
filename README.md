@@ -14,7 +14,7 @@ Not really, **Firestead** basicallly uses all generated files from Homestead and
 
 ## How to?
 
-#### 1. Add Laravel Homestead Bod
+#### 1. Add Laravel Homestead Box
 
 ````bash
 vagrant box add laravel/homestead
